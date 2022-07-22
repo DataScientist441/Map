@@ -10571,7 +10571,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25318,
             "NAME_2": "Bahawalpur",
-            "VARNAME_2": "Bahawal Pur",
+            "VARNAME_2": "Bahawalpur",
             "HASC_2": "PK.PB.BW",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10624,7 +10624,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25320,
             "NAME_2": "Faisalabad",
-            "VARNAME_2": "",
+            "VARNAME_2": "Faisalabad",
             "HASC_2": "PK.PB.FS",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10649,7 +10649,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25321,
             "NAME_2": "Gujranwala",
-            "VARNAME_2": "",
+            "VARNAME_2": "Gujranwala",
             "HASC_2": "PK.PB.GW",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10673,7 +10673,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25322,
             "NAME_2": "Lahore",
-            "VARNAME_2": "",
+            "VARNAME_2": "Lahore",
             "HASC_2": "PK.PB.LH",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10696,7 +10696,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25323,
             "NAME_2": "Multan",
-            "VARNAME_2": "",
+            "VARNAME_2": "Multan",
             "HASC_2": "PK.PB.MT",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10724,7 +10724,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25324,
             "NAME_2": "Rawalpindi",
-            "VARNAME_2": "",
+            "VARNAME_2": "Rawalpindi",
             "HASC_2": "PK.PB.RP",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10750,7 +10750,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25325,
             "NAME_2": "Sargodha",
-            "VARNAME_2": "",
+            "VARNAME_2": "Sargodha",
             "HASC_2": "PK.PB.SG",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
