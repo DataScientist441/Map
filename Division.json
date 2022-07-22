@@ -10345,7 +10345,7 @@
             "NAME_1": "Khyber Pakhtunkhwa",
             "ID_2": 25309,
             "NAME_2": "Bannu",
-            "VARNAME_2": "",
+            "VARNAME_2": "Bannu",
             "HASC_2": "PK.NW.BN",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10369,7 +10369,7 @@
             "NAME_1": "Khyber Pakhtunkhwa",
             "ID_2": 25310,
             "NAME_2": "Dera Ismail Khan",
-            "VARNAME_2": "Di Khan",
+            "VARNAME_2": "Dera Ismail Khan",
             "HASC_2": "PK.NW.DI",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10426,7 +10426,7 @@
             "NAME_1": "Khyber Pakhtunkhwa",
             "ID_2": 25312,
             "NAME_2": "Hazara",
-            "VARNAME_2": "",
+            "VARNAME_2": "Hazara",
             "HASC_2": "PK.NW.HZ",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10451,7 +10451,7 @@
             "NAME_1": "Khyber Pakhtunkhwa",
             "ID_2": 25313,
             "NAME_2": "Kohat",
-            "VARNAME_2": "",
+            "VARNAME_2": "Kohat",
             "HASC_2": "PK.NW.KH",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10476,7 +10476,7 @@
             "NAME_1": "Khyber Pakhtunkhwa",
             "ID_2": 25314,
             "NAME_2": "Malakand",
-            "VARNAME_2": "Mala Kand",
+            "VARNAME_2": "Malakand",
             "HASC_2": "PK.NW.MD",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10499,7 +10499,7 @@
             "NAME_1": "Khyber Pakhtunkhwa",
             "ID_2": 25315,
             "NAME_2": "Mardan",
-            "VARNAME_2": "",
+            "VARNAME_2": "Mardan",
             "HASC_2": "PK.NW.MA",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10524,7 +10524,7 @@
             "NAME_1": "Khyber Pakhtunkhwa",
             "ID_2": 25316,
             "NAME_2": "Peshawar",
-            "VARNAME_2": "",
+            "VARNAME_2": "Peshawar",
             "HASC_2": "PK.NW.PS",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
@@ -10600,7 +10600,7 @@
             "NAME_1": "Punjab",
             "ID_2": 25319,
             "NAME_2": "Dera Ghazi Khan",
-            "VARNAME_2": "D.G.Khan",
+            "VARNAME_2": "Dera Ghazi Khan",
             "HASC_2": "PK.PB.GK",
             "TYPE_2": "Division",
             "ENGTYPE_2": "Division"
